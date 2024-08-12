@@ -16,7 +16,7 @@ public class TC006_Bottomlinks {
 			testName = "tc_05_validateLinkInBottomOfHomePage";
 			testDescription = "Link in HomePage bottom is broken or not";
 			testCategory = "Regression";
-			testAuthor = "Basil Ahamed";
+			testAuthor = "Abinaya";
 		}
 		
 		@Test(priority=6)
