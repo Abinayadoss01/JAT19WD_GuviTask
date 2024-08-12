@@ -11,7 +11,7 @@ public class TC005_MenuValidation extends ProjectMethods {
 	@BeforeTest
 	public void setup() {
 		testName = "TC03_CountrySelectTest";
-		testDescription = "Navigating to the Best Buy e-commerce website by selecting the country";
+		testDescription = "Menu validation";
 		testCategory = "QA test";
 		testAuthor = "Abinaya";
 	}
